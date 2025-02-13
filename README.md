@@ -1,3 +1,7 @@
+wget https://solus4ti.com.br/install_chat/install.sh
+
+
+
 ## 🚨 Note: This branch is unstable. For the stable branch's source code, please use the branch [3.x](https://github.com/chatwoot/chatwoot/tree/3.x)
 
 
